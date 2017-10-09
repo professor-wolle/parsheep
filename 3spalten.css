@@ -1,0 +1,45 @@
+body {
+    <font Size=4 color=blue face=cursive>
+	font: 100.01% Verdana, Arial, Helvetica, sans_serif;
+}
+
+* {
+  margin:0;
+  padding:0;
+}
+
+#seite {
+  width:100%;
+  margin: 0 auto;
+  background-color: maroon
+}
+
+#kopfbereich {
+  background-color:maroon;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+#inhalt {
+  background-color: white;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#steuerung {
+  float: left;
+  width:100px;
+  background-color: maroon;
+}
+
+#spalterechts {
+  float: right;
+  width:100px;
+  background-color: maroon;
+}
+
+#fussbereich {
+  clear: both;
+  background-color:lightblue;
+}
