@@ -2,17 +2,22 @@ body {
     font-size: 1em;
     color: #263238;
 	font-family: Verdana, Arial, Helvetica, sans_serif;
+    background-color: maroon;
 }
 
-* {
-  margin:0;
-  padding:0;
+a, a:visited, a:active {
+    color: yellow;
 }
+
+a:hover {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
+
 
 #seite {
   width:100%;
   margin: 0 auto;
-  background-color: maroon;
 }
 
 #kopfbereich {
