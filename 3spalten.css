@@ -1,6 +1,7 @@
 body {
-    <font Size=4 color=blue face=cursive>
-	font: 100.01% Verdana, Arial, Helvetica, sans_serif;
+    font-size: 1em;
+    color: #263238;
+	font-family: Verdana, Arial, Helvetica, sans_serif;
 }
 
 * {
@@ -11,13 +12,19 @@ body {
 #seite {
   width:100%;
   margin: 0 auto;
-  background-color: maroon
+  background-color: maroon;
 }
 
 #kopfbereich {
   background-color:maroon;
   font-size: 2.5em;
   text-align: center;
+  color: white;
+}
+
+#inhalt img.wrapped {
+    float: left;
+    margin: 0 8px;
 }
 
 #inhalt {
@@ -25,6 +32,17 @@ body {
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+/* horizontal divider */
+#inhalt hr {
+    clear: both;    
+    border: none;
+    height: 8px;
+    background-color: maroon;
+    margin: 8px 0 8px 0;
 }
 
 #steuerung {
@@ -42,4 +60,5 @@ body {
 #fussbereich {
   clear: both;
   background-color:lightblue;
+  color: yellow;
 }
