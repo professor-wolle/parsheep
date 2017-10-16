@@ -1,0 +1,83 @@
+body {
+    font-size: 1em;
+    color: #263238;
+	font-family: Verdana, Arial, Helvetica, sans_serif;
+    background-color: maroon;
+}
+
+a, a:visited, a:active {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+    
+#seite {
+  width:100%;
+  margin: 0 auto;
+}
+
+#kopfbereich, #kopfbereich2, #kopfbereich3, #kopfbereich4, #kopfbereich5, #kopfbereich6, #kopfbereich7, #kopfbereich8, #kopfbereich9  {
+  background-color:maroon;
+  font-size: 3em;
+  text-align: center;
+  color: white;
+}
+
+#inhalt img.wrapped {
+    float: left;
+    margin: 0 8px;
+}
+
+#inhalt #inhalt2, #inhalt3, #inhalt4, #inhalt5, #inhalt6, #inhalt7, #inhalt8, #inhalt9 {
+  background-color: white;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+ 
+/* horizontal divider */
+#inhalt hr {
+    clear: both;    
+    border: none;
+    height: 8px;
+    background-color: maroon;
+    margin: 8px 0 8px 0;
+}
+
+#steuerung {
+  float: left;
+  width:100px;
+  background-color: maroon;
+}
+
+#steuerung2, #steuerung3, #steuerung4, #steuerung5, #steuerung6, #steuerung7, #steuerung8, #steuerung9 {
+    float: left;
+    width:200px;
+    background-color: maroon;
+}    
+    
+
+#spalterechts, #spalterechts2, #spalterechts3, #spalterechts4, #spalterechts5, #spalterechts6, #spalterechts7, #spalterechts8, #spalterechts9 {
+  float: right;
+  width:50px;
+  background-color: maroon;
+}
+
+#fussbereich, #fussbereich2, #fussbereich3, #fussbereich4, #fussbereich5, #fussbereich6, #fussbereich7, #fussbereich8, #fussbereich9, {
+  clear: both;
+  background-color:lightblue;
+  color: yellow;
+}
+
+#quiz1, #quiz2, #quiz3, #quiz4, #quiz5, #quiz6, #quiz7 {
+  background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}

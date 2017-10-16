@@ -1,0 +1,130 @@
+body {
+    font-size: 1em;
+    color: #263238;
+	font-family: Verdana, Arial, Helvetica, sans_serif;
+    background-color: maroon;
+}
+
+a, a:visited, a:active {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+    
+#seite {
+  width:100%;
+  margin: 0 auto;
+}
+
+#kopfbereich {
+  background-color:maroon;
+  font-size: 2.5em;
+  text-align: center;
+  color: white;
+}
+
+#inhalt img.wrapped {
+    float: left;
+    margin: 0 8px;
+}
+
+#inhalt {
+  background-color: white;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+/* horizontal divider */
+#inhalt hr {
+    clear: both;    
+    border: none;
+    height: 8px;
+    background-color: maroon;
+    margin: 8px 0 8px 0;
+}
+
+#steuerung {
+  float: left;
+  width:100px;
+  background-color: maroon;
+}
+
+#spalterechts {
+  float: right;
+  width:100px;
+  background-color: maroon;
+}
+
+#fussbereich {
+  clear: both;
+  background-color:lightblue;
+  color: yellow;
+}
+
+#quiz1 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz2 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz3 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz4 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz5 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz6 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
+
+#quiz7 {
+      background-color: white;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #263238;
+  padding: 8px 0 8px 0;
+}
